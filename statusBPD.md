@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Brody David Portner
 
 #### Your section leader's name
 
-TODO
+Professor Rosen(Main) / Zhenyu Zhao(TA)
 
 #### Project title
 
-TODO
+PNG Generator
 
 ***
 
@@ -18,12 +18,18 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+-created enough base images for different traits in order to randomly produce 20 unique images.
+-assigned even rarities among all the trait designs
+-completed base code in javascript
+
 
 #### What have you not done for your project yet?
 
-TODO
+-add 1-3 more images to each trait category to decrease chances of duplicates in creating 100
+-mess with the rarity percentages in order to assign different rarities to certain trait qualities
+-demo video
 
 #### What problems, if any, have you encountered?
 
-TODO
+-problems I have encountered were mostly in getting used to javascript syntax and struggling to find errors since I was instinctively merging python syntax into my code without realizing.
+-alligning the trait images properly so that no whitespace is shown in the completed image
