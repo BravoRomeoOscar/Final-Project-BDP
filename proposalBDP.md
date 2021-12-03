@@ -23,11 +23,11 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
--A good outcome would be to create 20 unique avatar-like images
+-A good outcome would be to create 20 unique avatar-like images.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
--A better outcome would be to create 20 different avatar-like images with a clean output image where the merging layers dont underlap or overlap
+-A better outcome would be to create 20 different avatar-like images with a clean output image where the merging layers dont underlap or overlap.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
